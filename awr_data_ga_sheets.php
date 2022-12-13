@@ -131,7 +131,7 @@
                             if ($con->query($sql_insert) === TRUE) {
                                             
                             } else {
-                                echo "Error: " . $sql . "<br>" . $con->error;
+                                echo "Error: " . $sql_insert . "<br>" . $con->error;
                             }
                         }
                     }   
