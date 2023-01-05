@@ -26,3 +26,6 @@ composer self-update
 composer self-update --1
 composer self-update --1 --stable
 ```
+
+## Drives Folder Location
+- https://drive.google.com/drive/folders/1BNfkEVpAxUWz3W4wfm1ruD2Tj9ZQGR4z
