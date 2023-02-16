@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "81072d75a68f66370f9da27c3754d9a2",
+    "content-hash": "e2b81c6f9782f48d07b2f93251a04b05",
     "packages": [
         {
             "name": "firebase/php-jwt",
@@ -62,24 +62,20 @@
                 "jwt",
                 "php"
             ],
-            "support": {
-                "issues": "https://github.com/firebase/php-jwt/issues",
-                "source": "https://github.com/firebase/php-jwt/tree/v6.3.1"
-            },
             "time": "2022-11-01T21:20:08+00:00"
         },
         {
             "name": "google/apiclient",
-            "version": "v2.12.6",
+            "version": "v2.13.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client.git",
-                "reference": "f92aa126903a9e2da5bd41a280d9633cb249e79e"
+                "reference": "b653a338c5a658adf6df4bb2f44c2cc02fe7eb1d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client/zipball/f92aa126903a9e2da5bd41a280d9633cb249e79e",
-                "reference": "f92aa126903a9e2da5bd41a280d9633cb249e79e",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client/zipball/b653a338c5a658adf6df4bb2f44c2cc02fe7eb1d",
+                "reference": "b653a338c5a658adf6df4bb2f44c2cc02fe7eb1d",
                 "shasum": ""
             },
             "require": {
@@ -132,11 +128,7 @@
             "keywords": [
                 "google"
             ],
-            "support": {
-                "issues": "https://github.com/googleapis/google-api-php-client/issues",
-                "source": "https://github.com/googleapis/google-api-php-client/tree/v2.12.6"
-            },
-            "time": "2022-06-06T20:00:19+00:00"
+            "time": "2022-12-19T22:17:11+00:00"
         },
         {
             "name": "google/apiclient-services",
@@ -176,10 +168,6 @@
             "keywords": [
                 "google"
             ],
-            "support": {
-                "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
-                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.278.0"
-            },
             "time": "2022-12-12T01:28:13+00:00"
         },
         {
@@ -335,10 +323,6 @@
                 "rest",
                 "web service"
             ],
-            "support": {
-                "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/6.5.8"
-            },
             "funding": [
                 {
                     "url": "https://github.com/GrahamCampbell",
@@ -419,10 +403,6 @@
             "keywords": [
                 "promise"
             ],
-            "support": {
-                "issues": "https://github.com/guzzle/promises/issues",
-                "source": "https://github.com/guzzle/promises/tree/1.5.2"
-            },
             "funding": [
                 {
                     "url": "https://github.com/GrahamCampbell",
@@ -529,10 +509,6 @@
                 "uri",
                 "url"
             ],
-            "support": {
-                "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/1.9.0"
-            },
             "funding": [
                 {
                     "url": "https://github.com/GrahamCampbell",
@@ -619,10 +595,6 @@
                 "logging",
                 "psr-3"
             ],
-            "support": {
-                "issues": "https://github.com/Seldaek/monolog/issues",
-                "source": "https://github.com/Seldaek/monolog/tree/1.27.1"
-            },
             "funding": [
                 {
                     "url": "https://github.com/Seldaek",
@@ -695,11 +667,6 @@
                 "hex2bin",
                 "rfc4648"
             ],
-            "support": {
-                "email": "info@paragonie.com",
-                "issues": "https://github.com/paragonie/constant_time_encoding/issues",
-                "source": "https://github.com/paragonie/constant_time_encoding"
-            },
             "time": "2022-06-14T06:56:20+00:00"
         },
         {
@@ -745,11 +712,6 @@
                 "pseudorandom",
                 "random"
             ],
-            "support": {
-                "email": "info@paragonie.com",
-                "issues": "https://github.com/paragonie/random_compat/issues",
-                "source": "https://github.com/paragonie/random_compat"
-            },
             "time": "2020-10-15T08:29:30+00:00"
         },
         {
@@ -842,10 +804,6 @@
                 "x.509",
                 "x509"
             ],
-            "support": {
-                "issues": "https://github.com/phpseclib/phpseclib/issues",
-                "source": "https://github.com/phpseclib/phpseclib/tree/3.0.17"
-            },
             "funding": [
                 {
                     "url": "https://github.com/terrafrost",
@@ -959,9 +917,6 @@
                 "request",
                 "response"
             ],
-            "support": {
-                "source": "https://github.com/php-fig/http-message/tree/master"
-            },
             "time": "2016-08-06T14:39:51+00:00"
         },
         {
@@ -1009,9 +964,6 @@
                 "psr",
                 "psr-3"
             ],
-            "support": {
-                "source": "https://github.com/php-fig/log/tree/1.1.4"
-            },
             "time": "2021-05-03T11:20:27+00:00"
         },
         {
@@ -1052,10 +1004,6 @@
                 }
             ],
             "description": "A polyfill for getallheaders.",
-            "support": {
-                "issues": "https://github.com/ralouphie/getallheaders/issues",
-                "source": "https://github.com/ralouphie/getallheaders/tree/develop"
-            },
             "time": "2019-03-08T08:55:37+00:00"
         },
         {
@@ -1126,9 +1074,6 @@
                 "portable",
                 "shim"
             ],
-            "support": {
-                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.27.0"
-            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -1210,9 +1155,6 @@
                 "portable",
                 "shim"
             ],
-            "support": {
-                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.27.0"
-            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -1286,9 +1228,6 @@
                 "portable",
                 "shim"
             ],
-            "support": {
-                "source": "https://github.com/symfony/polyfill-php72/tree/v1.27.0"
-            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -1314,5 +1253,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "1.1.0"
 }
